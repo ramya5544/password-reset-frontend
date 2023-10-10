@@ -1,7 +1,7 @@
 import React from 'react';
 import { Route, Routes, useNavigate } from 'react-router-dom';
-import Home from '../../Home';
-import ResetPasswordpage from '../../Components/ResetPasswordpage';
+import Home from './Home.jsx';
+import ResetPasswordpage from './Components/ResetPasswordpage.jsx';
 
 function App (props) {
   
